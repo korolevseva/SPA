@@ -1,0 +1,25 @@
+C:\Users\Сева\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Сева\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Сева\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Сева\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Сева\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Сева\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Сева\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Сева\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Сева\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Сева\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources1.resources
+C:\Users\Сева\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AddPers.resources
+C:\Users\Сева\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AddCl.resources
+C:\Users\student\Desktop\WindowsFormsApplication1 - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\student\Desktop\WindowsFormsApplication1 - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\student\Desktop\WindowsFormsApplication1 - копия\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\student\Desktop\WindowsFormsApplication1 - копия\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\student\Desktop\WindowsFormsApplication1 - копия\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Desktop\WindowsFormsApplication1 - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AddCl.resources
+C:\Users\student\Desktop\WindowsFormsApplication1 - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AddPers.resources
+C:\Users\student\Desktop\WindowsFormsApplication1 - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\student\Desktop\WindowsFormsApplication1 - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\student\Desktop\WindowsFormsApplication1 - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources1.resources
+C:\Users\student\Desktop\WindowsFormsApplication1 - копия\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\student\Desktop\WindowsFormsApplication1 - копия\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\student\Desktop\WindowsFormsApplication1 - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AddServ.resources
